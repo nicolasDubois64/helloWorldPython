@@ -8,8 +8,10 @@ You need:
 2. Download dependencies
 ```pip3 install -r dev-requirements.txt```
 
-## Logger
+## Development
+
+### Logger
 TODO
 
-## Test
+### Test
 TODO
